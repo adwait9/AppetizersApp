@@ -13,3 +13,18 @@
 - [x] Used @FocusState and .onSubmit to optimise UX while using keyboard
 - [x] Use of UIKit Components for loading view
 
+#### The Appetizer ListView:
+![](Assets/AppetizerListView.png)
+
+---
+
+#### The Account View:
+![](Assets/AccountView.png)
+
+---
+
+#### The Orders View:
+![](Assets/OrdersView.png)
+
+---
+https://github.com/adwait9/AppetizersApp/blob/main/Assets/AppetizerDemoComp.mp4
